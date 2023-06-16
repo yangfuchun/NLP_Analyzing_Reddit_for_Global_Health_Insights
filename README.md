@@ -6,4 +6,4 @@ This project utilizes sentiment analysis to gauge the polarity of health-related
 ### List of python libraries used
 `requests` `pandas` `warnings` `numpy` `textblob` `nltk` 
 ### Snapshots
-<img width="757" alt="image" src="https://user-images.githubusercontent.com/100629848/230501696-6f2b129a-1959-48e8-9649-88d6ed137fa0.png">
+![image](https://github.com/yangfuchun/NLP_Analyzing_Reddit_for_Global_Health_Insights/assets/100629848/4a8f8459-668d-4dc1-b334-6df8e398ab56)
