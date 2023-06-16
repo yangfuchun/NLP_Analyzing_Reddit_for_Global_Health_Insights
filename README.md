@@ -4,6 +4,6 @@ This project utilizes sentiment analysis to gauge the polarity of health-related
 - Raw_data: Contains 5000+ posts in the subreddit /health scraped through reddit APIs and variables include ups, downs, score, number of comments, etc.
 - Processed_data: Contains tokenized, stemmed, and classified data using Textblob 
 ### List of python libraries used
-`requests` `pandas` `warnings` `numpy` `textblob` `nltk` 
+`requests` `pandas` `warnings` `numpy` `textblob` `nltk` `Textblob`
 ### Snapshots
 ![image](https://github.com/yangfuchun/NLP_Analyzing_Reddit_for_Global_Health_Insights/assets/100629848/4a8f8459-668d-4dc1-b334-6df8e398ab56)
