@@ -1,5 +1,5 @@
 ### Overview
-This project was my junior year in college class project. It utilizes sentiment analysis to gauge the polarity of health-related posts on the subreddit/health, collecting over 5,000 posts through reddit APIs to gain a better understanding of people's international interests in healthcare, using data analysis tools such as Python, R, and Web Scraping.
+This project was my junior year class project. It utilizes sentiment analysis to gauge the polarity of health-related posts on the subreddit/health, collecting over 5,000 posts through reddit APIs to gain a better understanding of people's international interests in healthcare, using data analysis tools such as Python, R, and Web Scraping.
 ### Description of files
 - Raw_data: Contains 5000+ posts in the subreddit /health scraped through reddit APIs and variables include ups, downs, score, number of comments, etc.
 - Processed_data: Contains tokenized, stemmed, and classified data using Textblob 
